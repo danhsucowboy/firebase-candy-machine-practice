@@ -1,4 +1,4 @@
-# Firebase Function Practice
+# Firebase Candy Machine Practice
 This project is a simple example of how to create and deploy a Firebase function which can create metaplex candy machine
 
 ## Requirements
